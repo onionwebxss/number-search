@@ -4,11 +4,10 @@
 Professional Russian phone number search tool with advanced security protection. Features multi-layer encryption, anti-debugging, and API integration. Automatically validates and formats numbers. Perfect for security research and authorized testing. Created by Web Security Intelligentsia.
 ```
 ```bash
-# 1. Clone the repository
 git clone https://github.com/onionwebxss/number-search.git
 
-# 2. Enter the directory
+pip install -r requirements.txt
+
 cd number-search
 
-# 3. Run immediately (no installation needed!)
 python num_search.py
